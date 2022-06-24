@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PAM_Remedi</string>
+    <string name="Judul">Selamat Datang di Waktu Sholat</string>
+    <string name="Name">Masukkan Nama</string>
+    <string name="Password">Masukkan Password</string>
+    <string name="jnama">Nama</string>
+    <string name="jpass">Password</string>
+    <string name="bSignIn">Sign-In</string>
+    <string name="Register">Register</string>
+    <string name="newtodo">New User</string>
+    <string-array name="spinKota">
+        <item>Yogyakarta</item>
+        <item>Bangka Belitung</item>
+        <item>Semarang</item>
+        <item>Solo</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695288854978",
+    "project_id": "pam-remedi",
+    "storage_bucket": "pam-remedi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695288854978:android:7b79b939194aaaba4e3e5b",
+        "android_client_info": {
+          "package_name": "com.example.pam_remedi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695288854978-km749i873ggrblpoms2m18f6jsf2agar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-l4OpEJY0WNKLLXYYL49qg-rSUVTi0TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695288854978-km749i873ggrblpoms2m18f6jsf2agar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

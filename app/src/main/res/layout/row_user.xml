@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/nama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Nama"/>
+    <TextView
+        android:id="@+id/subuh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subuh"/>
+    <TextView
+        android:id="@+id/dzuhur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dzuhur"/>
+    <TextView
+        android:id="@+id/ashar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ashar"/>
+    <TextView
+        android:id="@+id/maghrib"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maghrib"/>
+    <TextView
+        android:id="@+id/isya"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Isya"/>
+
+</LinearLayout>
